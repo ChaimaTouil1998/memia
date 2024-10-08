@@ -1,0 +1,30 @@
+	<!-- Search Form -->
+						<div class="search-top">
+							<div class="top-search"><a href="#0"><i class="ti-search"></i></a></div>
+							<!-- Search Form -->
+							<div class="search-top">
+								<form class="search-form" action="search.php" method="POST">
+									<input class="form-control-" type="search" placeholder="Search here..." name="search">
+									<button value="btn_search" type="submit" name="click">Search</button>
+								</form>
+							</div>
+							<!--/ End Search Form -->
+						</div>
+						<!--/ End Search Form -->
+
+
+<div class="col-lg-8 col-md-7 col-12">
+
+						<div class="search-bar-top">
+							<div class="search-bar">
+
+								<form class="d-flex" action="produits.php" method="POST">
+									<input name="search" class="form-control" placeholder="Chercher vos produits..." type="search">
+									<button class="btnn" type="submit" name="click"><i class="ti-search"></i></button>
+								</form>
+							</div>
+
+						</div>
+					</div>
+
+
